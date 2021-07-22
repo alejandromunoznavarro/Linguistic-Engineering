@@ -1,0 +1,33 @@
+El Centro de Investigación Príncipe Felipe desarrolla un test para la Covid-19 a partir de muestras de saliva
+
+Se trata de un procedimiento fiable, económico y no invasivo que permite detectar infecciones en estadios muy tempranos o con baja carga viral
+
+Un equipo de investigadores del Centro de Investigación Príncipe Felipe (CIPF) lleva meses trabajando en el desarrollo de un nuevo test de detección de SARS-CoV-2 a partir de muestras de saliva.
+
+Test similares han sido aprobados de urgencia por la FDA estadounidense, como es el caso del test SalivaDirect desarrollado por la universidad de Yale.
+
+Otros centros españoles y europeos de referencia realizan también estudios parecidos a partir de muestras de saliva. Las principales ventajas que ofrece este tipo de test sobre la PCR nasofaríngea es que son menos invasivos, consistentes y económicos.
+
+Asimismo, otra ventaja muy importante de emplear muestras de saliva para realizar las pruebas PCR es que ofrecen minimizan la interacción física de los sanitarios con posibles personas infectadas. El propio paciente puede tomar su muestra y entregarla en su centro de salud dentro de un recipiente cerrado y de forma segura. Además, al ser no-invasiva no supone ningún dolor ni molestia para los pacientes, un punto que puede facilitar una mayor participación en programas de rastreo.
+
+Este tipo de test, según estudios científicos recientes, permite realizar más pruebas a más personas en menos tiempo, siempre con el objetivo de cortar las cadenas de contagio.
+
+El jefe del Laboratorio de Inmunología Molecular y Celular del CIPF, Enric Esplugues, uno de los investigadores que lidera el equipo Covid-19, asegura que los test de PCR para la detección del SARS-CoV-2 "se basan en analizar muestras biológicas donde ya sabemos que reside el virus, por ejemplo, en muestras nasofaríngeas o muestras de saliva. La obtención de muestras nasofaríngeas puede ser complicada y molesta si la comparamos con la obtención de muestras de saliva".
+
+"Además, la prueba de detección de SARS-Cov-2 en saliva mantiene una alta sensibilidad", añade el investigador.
+Una alternativa muy sensible
+
+La saliva, según diferentes estudios científicos publicados en las ultimas semanas, es una firme candidata para el diagnóstico de Covid-19 porque su recolección es mínimamente invasiva y ha mostrado una sensibilidad comparable a los hisopos nasofaríngeos. Además, la metodología usada por los investigadores del CIPF no requiere de la purificación de RNA.
+
+La directora del CIPF, la doctora Deborah Burks, considera que es una forma de avanzar con las pruebas de cribado, incluso a gran escala: "Es un método muy apto para niños porque esta metodología se adapta perfectamente a un programa de screening masivo, puesto que se pueden emplear pools de muestra".
+
+"Es posible detectar pacientes de Covid-19 en estadios muy tempranos o con cargas virales bajas con resultados comparables a las pruebas de PCR a partir de muestras nasofaríngeas", añade la doctora Burks.
+Otros proyectos
+
+Por otro lado. el doctor Francisco J. Iborra, junto al doctor Fernando Almazan del CSIC, llevan a cabo un estudio sobre las modificaciones que induce el SARS-Cov-2 en el metabolismo celular. Los virus, cuando nos infectan, modifican el metabolismo celular en su beneficio, para optimizar su crecimiento y expansión.
+
+"Si descubrimos dianas metabólicas, podremos actuar de manera farmacológica, impidiendo o al menos interfiriendo en la progresión de la infección", señala el Dr. Iborra. "Usando dicha estrategia, hemos identificado varias dianas y nos encontramos en proceso de validar su impacto en el curso de la infección", añade el investigador.
+
+Por su parte, el laboratorio de la doctora Mar Orzáez estudia el papel que desempeñan en la activación del inflamasoma las distintas proteínas que conforman el virus. Este grupo investiga las estrategias farmacológicas que resultarían más adecuadas para inhibir la inflamación inducida por el virus.
+
+"Es ya un hecho demostrado que la activación del inflamasoma ocurre en pacientes graves de Covid-19 y existen evidencias que relacionan la magnitud de su activación y su progresión durante la hospitalización, con la evolución clínica del paciente", señala la investigadora del CIPF.

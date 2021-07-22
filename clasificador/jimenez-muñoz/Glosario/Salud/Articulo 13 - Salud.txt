@@ -1,0 +1,67 @@
+ El coronavirus, en datos: mapas y gráficos de la evolución de los casos en España y el mundo
+
+    Actualizamos en directo el número de casos confirmados de personas infectadas por el coronavirus en el mundo y la expansión del brote en España y el resto de países 
+	
+Casos confirmados
++74,9 mill.
++1,8 mill. en España
+Nuevos en el día
+720.593
+11.815 en España
+Recuperados
++49,0 mill.
+150.376 en España
+Muertes
+1.674.840
+48.926 en España
+
+ Consulta en directo la evolución de la COVID-19 en China, España y el resto de países del mundo. Con los datos difundidos por la Universidad Johns Hopkins y el Ministerio de Sanidad, mostramos en gráficos y mapas los casos confirmados que han detectado las autoridades sanitarias, los nuevos casos cada día, las personas que se han recuperado y las que han fallecido.
+1) Mapa de la expansión del coronavirus
+
+El siguiente mapa muestra las principales variables para ver la situación de la epidemia en todo el mundo: si los casos están subiendo o bajando, la incidencia de casos por habitante en las últimas dos semanas, el número total de casos y fallecidos con COVID-19 en cada país y la incidencia del virus en comparación con su población.
+
+Hay que tener en cuenta que solo se muestran los casos que han detectado las autoridades sanitarias de cada país desde el inicio de la epidemia. Es decir, las cifras están muy relacionadas con la capacidad de testar a la población de cada Gobierno.
+
+En el caso de España, se han incluido a los casos confirmados por PCR los 47.080 casos confirmados por test de anticuerpos hasta el día 27 de mayo. Sanidad no actualiza el dato de personas recuperadas desde el 18 de mayo. 
+
+2) ¿Cuándo subieron los casos en cada país?
+
+El número de nuevos casos diarios indica la tendencia de expansión de la epidemia de coronavirus en cada país. Para mostrar cómo ha cambiado esta variable, el gráfico señala cuándo subían, bajaban o se mantenían igual el número de casos nuevos semanales en los países con mayor número de personas infectadas.
+
+3) Contagios y muertes en todo el mundo
+
+La expansión del brote en África y América ha vuelto a aumentar el número total de nuevos casos de COVID-19 en el mundo. Así ha evolucionado el número total de nuevos casos y nuevas muertes en todos los países del mundo. 
+
+4) La evolución del virus en cada continente
+
+¿Cómo ha evolucionado el coronavirus en cada región del mundo? El siguiente gráfico muestra le evolución de los nuevos casos detectados en las principales regiones del mundo. Se muestra el promedio de los últimos 7 días para visualizar mejor la tendencia de expansión del virus en cada continente.
+
+5) La curva de casos de cada país
+
+El ritmo de expansión de pandemia es diferente en cada país. ¿Cómo ha evolucionado la curva en los países más afectados? Para comprobarlo hemos calculado la evolución del número de nuevos casos diarios confirmados por las autoridades sanitarias de cada país, y hemos realizado el promedio de la última semana.
+
+6) La epidemia en España, en contexto
+
+Además del número de contagiados, también es interesante comparar el cómo han evolucionado los casos y las muertes con COVID-19 en cada país. ¿Cómo está España respecto al resto en casos y muertes diarias por cada 100.000 habitantes?
+
+Hay que tener en cuenta que las curvas muestran casos notificados. Es decir, en qué momento el país informó de esos contagios o fallecimientos. Por esa razón, algunos países presentan picos anómalos en algunas fechas que añadieron muchas muertes o casos de golpe. 
+
+7) Los más vulnerables a la COVID-19
+
+La enfermedad de la COVID-19 afecta principalmente a las personas mayores. Los datos de España, Italia, Estados Unidos, Corea del Sur, China y otros países europeos y americanos repiten la misma tendencia. La tasa de mortalidad se dispara entre los que tienen más de 70 años.
+
+En el caso de Italia y Corea del Sur y el resto de países, se refieren a los informes gubernamentales más actualizados y en el caso de China, a un informe que analizó más de 40.000 casos diagnosticados del virus en el país. Los de España se refieren a una muestra desglosada del Ministerio de Sanidad.
+
+8) Todos los datos, país por país
+
+El ranking de países con mayor número de personas contagiadas en algún momento ahora lo lidera Estados Unidos y el número de casos activos aumenta día a día. Mostramos los datos actualizados de contagios, recuperaciones y fallecidos en cada país del mundo.
+
+9) El coronavirus en España, por comunidad autónoma
+
+El nuevo sistema de notificación que publica el Ministerio de Sanidad desde el 25 de mayo invalida las series de datos anteriores. 
+
+¿Cuáles son las comunidades autónomas en las que se han detectado un mayor número de casos? La Comunidad de Madrid, Cataluña, Castilla-La Mancha y Castilla y León son las autonomías con mayor número de personas contagiadas confirmadas a través de una prueba PCR (o por anticuerpos desde el 11 de mayo).
+
+10) Casos por habitante en las comunidades autónomas
+
+Para conocer cuál es el grado de penetración del virus en comparación con el número de habitantes, hemos calculado la tasa de casos confirmados y número de muertes en cada autonomía por 100.000 habitantes. Los casos confirmados se refieren a las identificados por prueba PCR o por prueba de anticuerpos —en este último caso solo se cuentan las realizadas a partir del 11 de mayo con síntomas compatibles—. 
